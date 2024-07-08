@@ -1,0 +1,6 @@
+framework module FFTextView {
+  umbrella header "FFTextView-umbrella.h"
+
+  export *
+  module * { export * }
+}
